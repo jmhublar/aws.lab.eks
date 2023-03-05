@@ -1,5 +1,11 @@
 # aws.lab.eks
 
-Playing around with EKS, terraform, and whatever else but mostly those things.
+## Resources:
+### EKS CLuster
+https://github.com/stacksimplify/terraform-on-aws-eks
+### Prometheus Operator
+https://github.com/antonputra/tutorials/tree/main/lessons/154
+
+
 
 
