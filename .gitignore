@@ -42,5 +42,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# Ignore any directory named local-exec-output-files
-local-exec-output-files
+# Ignore any directory named local-exec-output-files 
+**/local-exec-output-files
