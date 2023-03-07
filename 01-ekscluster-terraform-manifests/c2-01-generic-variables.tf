@@ -17,3 +17,9 @@ variable "business_division" {
   type = string
   default = "SAP"
 }
+
+variable "create_test_instance" {
+  description = "Create a test instance"
+  type = bool
+  default = false
+}
